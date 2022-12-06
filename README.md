@@ -6,13 +6,9 @@
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* bootstrap
-* jest
-*  [add more as they come!]
+* CSharp
+* .NET 6
+* MSTest
 
 ## Description
  keep it brief!
@@ -22,13 +18,12 @@
 
 * Clone this repo & navigate to the root directory
 * open a command line prompt
-* install all packages with $npm install
-* build the project using $npm run build
-* start a live server with $npm run start
+* build the project using $dotnet build
+* execute code with $dotnet run
 
 dev note:
-* lint js files in src with $npm run lint (after writing more code)
-* run tests with Jest using $npm run test
+* to run tests, cd to the ProjectTests folder
+* enter $dotnet test to run tests
 
 ## Known Bugs
 
