@@ -24,6 +24,7 @@
 dev note:
 * to run tests, cd to the ProjectTests folder
 * enter $dotnet test to run tests
+* keep all dots in names, dont forget to update .gitignore
 
 ## Known Bugs
 
